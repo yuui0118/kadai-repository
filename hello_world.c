@@ -1,6 +1,7 @@
+２のコミットです
 #include <stdio.h>
 
 main()
 {
-  printf("Hello World\n");
+  printf("My hobby is ...\n");
 }
