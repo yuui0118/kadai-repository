@@ -1,4 +1,4 @@
-最初のコミットです
+私はブランチ２です
 #include <stdio.h>
 
 main()
