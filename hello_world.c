@@ -1,4 +1,4 @@
-２のコミットです
+最初のコミットです
 #include <stdio.h>
 
 main()
